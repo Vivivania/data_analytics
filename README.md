@@ -7,4 +7,5 @@ QA Technical Test
 5. Negative testing is a test which checks if the application behaves as expected with invalid data as input or unexpected user behavior.It is different from positive testing because positive testing checks if the application behaves as expected with valid data as input.
 6. 
 7. The different artifacts should be : Test Case ID, Test Case Name, Test Case Description, Steps, Expected Result, Actual Result, Application/Release Name, Pass/Fail
-8. Regression tests are 
+8. Regression tests are the tests which are done after the system/software is modified either to correct errors or to augment the original system.
+9. No, I've never used it. Automation tools is 

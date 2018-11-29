@@ -6,4 +6,5 @@ QA Technical Test
 4. Perhaps I can reduce testing time variability by agile systems, which maximize flexibility and minimize variability with the purpose to identify the variability in the sotware testing process so that the variability in those steps/ tasks that would be included in an agile testing process is minimized.
 5. Negative testing is a test which checks if the application behaves as expected with invalid data as input or unexpected user behavior.It is different from positive testing because positive testing checks if the application behaves as expected with valid data as input.
 6. 
-7.  
+7. The different artifacts should be : Test Case ID, Test Case Name, Test Case Description, Steps, Expected Result, Actual Result, Application/Release Name, Pass/Fail
+8. Regression tests are 
